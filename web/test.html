@@ -1,0 +1,90 @@
+<body>
+<style>
+._xi_check{
+	border-color:#333;
+	/*transform:matrix(0.707,0.707,-0.707,0.707,0,0);*/
+	transform:rotate(32deg);
+	border-width:0 2px 2px 0;
+	border-style:solid;
+	position:absolute;
+}
+._x_close{
+	background:yellow;
+	position:absolute;
+	opacity:0.3;
+}
+._x_close:before,._x_close:after{
+	top:0;
+	left:50%;
+	background-color:#333;
+	position:absolute;
+	content:'';
+	width:2px;
+	bottom:0;
+}
+._x_close:before{
+	transform:rotate(45deg);
+}
+._x_close:after{ 
+	transform:rotate(-45deg);
+}
+._x_close:hover{
+	opacity: 1;
+}
+
+._x_search{
+	position:absolute;
+	opacity:0.3;
+}
+._x_search:before {
+	width:50%;
+	height:50%;
+	position:absolute;
+	border:2px solid #333;
+	border-radius:50%;
+	background:white;
+	content:'';
+	z-index:1;
+}
+._x_search:after {
+	right:25%;
+	height:50%;
+	position:absolute;
+	border-left:3px solid #333;
+	transform:rotate(-45deg);
+	margin-bottom:2px;
+	content:'';
+	bottom:0;
+}
+._x_search:hover{
+	opacity: 1;
+}
+
+._xi_rcaret {
+	position:absolute;
+	opacity:0.3;
+}
+
+._xi_rcaret:before,._xi_rcaret:after{
+	top: 0;
+	position: absolute;
+	bottom: 0;
+	left:50%;
+	background-color:#333;
+/*	margin: auto 0;
+    box-shadow: inset 0 0 0 1px;
+	transform-origin: right;*/
+	width:2px;
+}
+._xi_rcaret:before {
+        transform: rotate(45deg);
+    }
+._xi_rcaret:after {
+        transform: rotate(-45deg);
+    }
+
+</style>
+<span class="_xi_check" style="left:10px;top:10px;height:24px;width:12px;"></span><br>
+<span class="_x_search" style="left:10px;top:50px;height:24px;width:24px;"></span><br>
+<span class="_x_close" style="left:10px;top:100px;height:24px;width:24px;"></span><br>
+</body>

@@ -1,0 +1,35 @@
+<!--
+https://www.iconfinder.com/iconsets/miu, 
+https://www.iconfinder.com/iconsets/google-material-design-icons 
+https://material.io/tools/icons/?style=baseline
+https://www.iconfinder.com/iconsets/pinpoint-interface
+-->
+<svg style="display:none;">
+	<symbol id="link" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M3.9,12C3.9,10.29 5.29,8.9 7,8.9H11V7H7A5,5 0 0,0 2,12A5,5 0 0,0 7,17H11V15.1H7C5.29,15.1 3.9,13.71 3.9,12M8,13H16V11H8V13M17,7H13V8.9H17C18.71,8.9 20.1,10.29 20.1,12C20.1,13.71 18.71,15.1 17,15.1H13V17H17A5,5 0 0,0 22,12A5,5 0 0,0 17,7Z" />
+	</symbol>
+	<symbol id="outline" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M12,2L4.5,20.29L5.21,21L12,18L18.79,21L19.5,20.29L12,2Z" />
+	</symbol>
+	<symbol id="digram" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M18,20H6V4H13V9H18V20M10,13H7V11H10V13M14,13H11V11H14V13M10,16H7V14H10V16M14,16H11V14H14V16M10,19H7V17H10V19M14,19H11V17H14V19Z" />
+	</symbol>
+	<symbol id="style" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M17,15.7V13H19V17L10,21L3,14L7,5H11V7H8.3L5.4,13.6L10.4,18.6L17,15.7M22,5V7H19V10H17V7H14V5H17V2H19V5H22Z" />
+	</symbol>
+	<symbol id="string" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M3,3H16V6H11V18H8V6H3V3M12,7H14V9H12V7M15,7H17V9H15V7M18,7H20V9H18V7M12,10H14V12H12V10M12,13H14V15H12V13M12,16H14V18H12V16M12,19H14V21H12V19Z" />
+	</symbol>
+	<symbol id="text" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M9.62,12L12,5.67L14.37,12M11,3L5.5,17H7.75L8.87,14H15.12L16.25,17H18.5L13,3H11Z" />
+	</symbol>
+	<symbol id="arrange" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M21,15.61L19.59,17L14.58,12L19.59,7L21,8.39L17.44,12L21,15.61M3,6H16V8H3V6M3,13V11H13V13H3M3,18V16H16V18H3Z"/>
+	</symbol>
+	<symbol id="layer" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M12,16L19.36,10.27L21,9L12,2L3,9L4.63,10.27M12,18.54L4.62,12.81L3,14.07L12,21.07L21,14.07L19.37,12.8L12,18.54Z" />
+	</symbol>
+	<symbol id="unfold" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M18.17,12L15,8.83L16.41,7.41L21,12L16.41,16.58L15,15.17L18.17,12M5.83,12L9,15.17L7.59,16.59L3,12L7.59,7.42L9,8.83L5.83,12Z" />
+	</symbol>
+</svg>

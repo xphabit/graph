@@ -1,0 +1,9 @@
+cancel=取消
+link=链接
+ok=确定
+url=请输入目标网站的地址
+options=选项
+connectarrow=链接箭头
+connectpoint=链接点
+guide=参考线
+clear=清除

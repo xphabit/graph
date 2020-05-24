@@ -1,0 +1,4389 @@
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : CHROMEANDFIREFOXCOPYFIXENABLED
+LastUpdateUtc : 1/29/2018 5:10:32 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : DESIGNERTYPEREFRESHENABLED
+LastUpdateUtc : 1/29/2018 5:10:38 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : DOWNLOADUSEDELAYQUEUECANCELLATIONTOKEN
+LastUpdateUtc : 1/29/2018 5:10:49 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : EDGECONTEXTMENUASYNCISENABLED
+LastUpdateUtc : 1/29/2018 5:10:50 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : EVENTTIMINGMETERISENABLED
+LastUpdateUtc : 1/29/2018 5:10:55 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : FORCESAVEWAITFORUPLOADTEMPLATEFINISHED
+LastUpdateUtc : 1/29/2018 5:12:08 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : FRAMETIMINGMETERISENABLED
+LastUpdateUtc : 1/29/2018 5:12:08 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : HERMESLOCALRENDERINGFORINSERTLOCALIMAGEISENABLED
+LastUpdateUtc : 1/29/2018 5:12:12 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : HERMESLOCALRENDERINGFORNEWSLIDEISENABLED
+LastUpdateUtc : 11/12/2018 2:00:00 AM
+LastUpdateBy  : joshand@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : HERMESMONITORSHAPECONTENTCHANGEENABLED
+LastUpdateUtc : 1/29/2018 5:12:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : HERMESPROOFINGSKIPSAVINGISENABLED
+LastUpdateUtc : 1/29/2018 5:12:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : NEWLOCALBRANCHSTOREHOSTINTERFACEENABLEDDATACENTERS
+LastUpdateUtc : 1/29/2018 5:12:51 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : FF1;FF1S;PP1;PP2;NL1S;US2S;US1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : OASISDESIGNERINTEGRATIONENABLED
+LastUpdateUtc : 1/29/2018 5:12:52 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : OCVFEEDBACKISENABLED
+LastUpdateUtc : 1/29/2018 5:12:55 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : OCVFLIGHTINGISENABLED
+LastUpdateUtc : 1/29/2018 5:12:55 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEAGAVEONBOARDINGISENABLED
+LastUpdateUtc : 1/29/2018 5:12:56 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEAUTHORRESOLUTIONIDISENABLED
+LastUpdateUtc : 1/29/2018 5:12:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEBOOTUXISENABLED
+LastUpdateUtc : 4/6/2018 3:16:58 AM
+LastUpdateBy  : larrwi@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTECLASSNOTEBOOKCOTEACHERSISENABLED
+LastUpdateUtc : 1/29/2018 5:12:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTECLASSNOTEBOOKNOTETYPEISENABLED
+LastUpdateUtc : 1/29/2018 5:12:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTECLASSNOTEBOOKTEACHERSCHECKISENABLED
+LastUpdateUtc : 1/29/2018 5:12:58 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTECONTENTSYNCISENABLED
+LastUpdateUtc : 8/31/2018 11:58:37 PM
+LastUpdateBy  : larrwi@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEDOTCOMOUTERFRAMEENABLED
+LastUpdateUtc : 1/29/2018 5:12:58 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEFORMATPAINTERISENABLED
+LastUpdateUtc : 1/29/2018 5:12:59 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEHTTPREQUESTSERIALIZEDIRECTLYTORESPONSESTREAM
+LastUpdateUtc : 1/29/2018 5:12:59 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEMODERNGETCELLSISENABLED
+LastUpdateUtc : 1/29/2018 5:13:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEMODERNHIERARCHYISENABLED
+LastUpdateUtc : 1/29/2018 5:13:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEMODERNSYNCFIREANDFORGETISENABLED
+LastUpdateUtc : 1/29/2018 5:13:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEOREOMULTISELECTPAGESISENABLED
+LastUpdateUtc : 1/29/2018 5:13:01 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEOREONAVPANEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:02 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEOREONOTEBOOKPANEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:02 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEOREONOTEBOOKSEARCHISENABLED
+LastUpdateUtc : 1/29/2018 5:13:02 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEOREONOTIFICATIONCENTERISENABLED
+LastUpdateUtc : 1/29/2018 5:13:03 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEOREOOICSURVEYISENABLED
+LastUpdateUtc : 10/3/2018 5:01:17 PM
+LastUpdateBy  : larrwi@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEOREOSEARCHPANEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:03 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEOREOSHARECALLOUTISENABLED
+LastUpdateUtc : 1/29/2018 5:13:03 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEREPORTDATALOGGINGISENABLED
+LastUpdateUtc : 3/8/2018 6:03:32 PM
+LastUpdateBy  : larrwi@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTESHOULDREVISIONIGNORECHANGESONUNREFERENCEDOBJECTS
+LastUpdateUtc : 1/29/2018 5:13:04 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTESYNCSTATUSLOGGINGENABLED
+LastUpdateUtc : 1/29/2018 5:13:05 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEWHATSNEWISENABLED
+LastUpdateUtc : 1/29/2018 5:13:05 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ONENOTEWOPISRCNEWPARSINGISENABLED
+LastUpdateUtc : 1/29/2018 5:13:05 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ORDERLYSHUTDOWNFORPATCHINGISENABLED
+LastUpdateUtc : 1/29/2018 5:13:06 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ORDERLYSHUTDOWNISENABLED
+LastUpdateUtc : 1/29/2018 5:13:06 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ORGIDAUTHWAITONPRELOADISENABLED
+LastUpdateUtc : 1/29/2018 5:13:06 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : OSFADDINSCOMMAND
+LastUpdateUtc : 1/29/2018 5:13:07 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PIISCRUBBERHASHONLYENABLED
+LastUpdateUtc : 8/17/2018 1:15:42 AM
+LastUpdateBy  : joshand@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODALARMUSEDEDICATEDDELAYQUEUE
+LastUpdateUtc : 1/29/2018 5:13:08 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODATTACHHEADERFORUNHEALTHYMACHINEENABLED
+LastUpdateUtc : 1/29/2018 5:13:08 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODCACHINGCONFIGADAPTERCACHEENABLED
+LastUpdateUtc : 1/29/2018 5:13:09 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODCOMMENTACTIVITIESENABLEDGENERATION
+LastUpdateUtc : 1/29/2018 5:13:09 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODCREATESESSIONSKIPARRREQUEST
+LastUpdateUtc : 1/29/2018 5:13:10 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODCROSSDCPASTEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:10 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODDEDICATEDEARLYIMAGEREQUESTENABLED
+LastUpdateUtc : 1/29/2018 5:13:10 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODDEEPLINKINGERRORHANDLINGENABLED
+LastUpdateUtc : 1/29/2018 5:13:11 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODDESIGNERSLIDENAVENABLED
+LastUpdateUtc : 1/29/2018 5:13:11 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODDESIGNERTYPEREFRESHENABLED
+LastUpdateUtc : 1/29/2018 5:13:11 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODEDITINGDELAYLOADNONCORESLICEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:12 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODEDITINGIMAGESLOSSYCOMPRESSIONDURINGBOOTENABLED
+LastUpdateUtc : 1/29/2018 5:13:12 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODEDITINGIMAGESLOSSYCOMPRESSIONDURINGBOOTPICTURESONLY
+LastUpdateUtc : 1/29/2018 5:13:12 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODEDITINGIMAGESLOSSYCOMPRESSIONDURINGBOOTSLIDEBACKGROUNDENABLED
+LastUpdateUtc : 1/29/2018 5:13:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODENABLEMODEL3DMORPH
+LastUpdateUtc : 1/29/2018 5:13:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODENABLENATIVESAVEDIRECTORYFIX
+LastUpdateUtc : 1/29/2018 5:13:14 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODENABLEORDERLYSHUTDOWN
+LastUpdateUtc : 1/29/2018 5:13:14 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODENABLEREMOVECHANGESINFOFORDOWNLOADASACOPY
+LastUpdateUtc : 1/29/2018 5:13:14 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODENSURELOADALLCREATIONIDSINBOOT
+LastUpdateUtc : 1/29/2018 5:13:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODEXECUTEGETSTREAMINBACKGROUND
+LastUpdateUtc : 1/29/2018 5:13:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODFAILOVERFORSLIDESHOWISENABLED
+LastUpdateUtc : 1/29/2018 5:13:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODFAILOVERREFACTOREDLOGICISENABLED
+LastUpdateUtc : 1/29/2018 5:13:16 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODFAILOVERREFRESHDOCOPTIMIZATIONENABLED
+LastUpdateUtc : 1/29/2018 5:13:16 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODGENERATEPODSIDMAPPINGTOHEALTHYMACHINEENABLED
+LastUpdateUtc : 1/29/2018 5:13:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODGETCELLREQUESTSENTBEFOREOPENEARLYRETURNED
+LastUpdateUtc : 1/29/2018 5:13:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODGETLOCKFORSAFEHTMLVALIDATIONWORKER
+LastUpdateUtc : 1/29/2018 5:13:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODIGNORECLIENTERRORONSESSIONCLOSEDENABLED
+LastUpdateUtc : 1/29/2018 5:13:18 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODIGNORESERVERERRORONSESSIONCLOSEDENABLED
+LastUpdateUtc : 1/29/2018 5:13:18 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODINCDOWNLOADMETADATACACHEUSEVALUES
+LastUpdateUtc : 1/29/2018 5:13:18 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODLOCALRENDERINGFORNEWSLIDEISENABLED
+LastUpdateUtc : 11/12/2018 1:59:44 AM
+LastUpdateBy  : joshand@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODMACHINEHEALTHMANAGERPINGENABLED
+LastUpdateUtc : 1/29/2018 5:13:20 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODMENTIONACTIVITIESENABLEDGENERATION
+LastUpdateUtc : 1/29/2018 5:13:22 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODMODEL3DMORPHDISABLEDDATACENTERLIST
+LastUpdateUtc : 1/29/2018 5:13:22 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : {}
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODMULTISELECTSLIDESISENABLED
+LastUpdateUtc : 1/29/2018 5:13:23 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODMULTISELECTSLIDESUNDOREDOISENABLED
+LastUpdateUtc : 1/29/2018 5:13:23 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODOASISDESIGNERINTEGRATIONENABLED
+LastUpdateUtc : 1/29/2018 5:13:23 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODONINESETSLIDESIZEENABLED
+LastUpdateUtc : 1/29/2018 5:13:24 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODOPENEARLYPOLLINGMODEENABLED
+LastUpdateUtc : 1/29/2018 5:13:24 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODOPENIRM
+LastUpdateUtc : 1/29/2018 5:13:24 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPERCENTAGETRAFFICTOSKIPARR
+LastUpdateUtc : 1/29/2018 5:13:25 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPINGBEFOREOPENEARLY
+LastUpdateUtc : 1/29/2018 5:13:25 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPPTPARAGRAPHSETTINGENABLED
+LastUpdateUtc : 1/29/2018 5:13:25 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPPTPRINTINGOPTIONSDATACENTERLIST
+LastUpdateUtc : 1/29/2018 5:13:26 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : {}
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPPTPRINTINGOPTIONSENABLED
+LastUpdateUtc : 1/29/2018 5:13:26 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPREFERINCIFCACHEDMETADATAAVAILABLE
+LastUpdateUtc : 1/29/2018 5:13:27 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPRELOADSLIDESHOWENABLED
+LastUpdateUtc : 1/29/2018 5:13:28 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPREPAREREHYDRATIONRAISESESSIONENDEVENT
+LastUpdateUtc : 1/29/2018 5:13:28 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODPROOFINGWITHEDITORSERVICEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:28 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODQUICKINCDOWNLOADCLIENTENABLEDPERCENTAGE
+LastUpdateUtc : 1/29/2018 5:13:29 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODRECREATEPODSESSIONONOPENEARLYERROR
+LastUpdateUtc : 1/29/2018 5:13:29 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODREFRESHONOPENEARLY503
+LastUpdateUtc : 1/29/2018 5:13:29 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODREHYDRATEPODSWHENPOPSISUNAVAILABLEENABLED
+LastUpdateUtc : 1/29/2018 5:13:30 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODREJECTBOOTSESSIONSDURINGMACHINESHUTDOWN
+LastUpdateUtc : 1/29/2018 5:13:30 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODRENDERNOTESHTMLWHENTXTBODYISNULL
+LastUpdateUtc : 1/29/2018 5:13:31 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODREPLACEOBJECTDATACENTERENABLINGLIST
+LastUpdateUtc : 1/29/2018 5:13:31 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : {PP1, PP2, DF2}
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODREPLACEOBJECTENABLED
+LastUpdateUtc : 1/29/2018 5:13:31 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODREROUTEUSEDELAYQUEUECANCELLATIONTOKEN
+LastUpdateUtc : 1/29/2018 5:13:32 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODSDOCUMENTFLIGHTPERCENT
+LastUpdateUtc : 1/29/2018 5:13:32 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : PP1:10;PP2:10;NL1S:0;US2S:0;BR1:0;HK1:0;IE1:0;NL1:0;SG2:0;US1:0;US2:0;AU1:0;AU2:0;CA1:0;CA2:0;IN1:0;IN2:0;JP1:0;JP2:0;UK1:0;UK2:0;
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODSETSLIDESIZEENABLED
+LastUpdateUtc : 1/29/2018 5:13:33 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODTPUSEDELAYQUEUECANCELLATIONTOKEN
+LastUpdateUtc : 1/29/2018 5:13:33 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODUPGRADEBASETOWIREONDEMANDENABLED
+LastUpdateUtc : 1/29/2018 5:13:33 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODUSESHA256HASHPOOL
+LastUpdateUtc : 1/29/2018 5:13:34 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODUSEWIDESUGGESTIONTHUMBS
+LastUpdateUtc : 1/29/2018 5:13:34 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODVIEWERRENDERSHAPEBACKGROUNDASSVGENABLED
+LastUpdateUtc : 1/29/2018 5:13:34 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODVIEWERRENDERSHAPEBGASSVGANDTEXTASPNGENABLED
+LastUpdateUtc : 1/29/2018 5:13:35 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODZEROBYTEPOSTFOROPENEARLYENABLED
+LastUpdateUtc : 1/29/2018 5:13:35 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PODZIPARCHIVENULLATDISPOSE
+LastUpdateUtc : 1/29/2018 5:13:35 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POPSESSIONGETPODSLATESTBASEINSYNCLOOP
+LastUpdateUtc : 1/29/2018 5:13:35 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POPSESSIONOCSFALLBACKENABLED
+LastUpdateUtc : 1/29/2018 5:13:37 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POPSESSIONOCSTRANSITIONINENABLED
+LastUpdateUtc : 1/29/2018 5:13:37 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POPSUPDATELASTPODSPERSISTEDREVISIONAFTERMERGE
+LastUpdateUtc : 1/29/2018 5:13:38 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTAPPSFOROFFICEPRIVATECATALOGENABLED_GC1
+LastUpdateUtc : 10/15/2018 3:17:17 PM
+LastUpdateBy  : larrwi@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTAPPSFOROFFICEPRIVATECATALOGENABLED_GC2
+LastUpdateUtc : 10/15/2018 3:17:17 PM
+LastUpdateBy  : larrwi@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTEDITINTERACTIVEPERFTELEMETRYENABLED
+LastUpdateUtc : 1/29/2018 5:13:38 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTEDITORALARMUSEDEDICATEDDELAYQUEUE
+LastUpdateUtc : 1/29/2018 5:13:38 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTEDITORALLOWEMPTYNOTESWHENLOADSLIDE
+LastUpdateUtc : 1/29/2018 5:13:39 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTEDITORDOWNLOADASIMAGESENABLED
+LastUpdateUtc : 1/29/2018 5:13:39 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTEDITORFETCHSINGLEIMAGEENABLED
+LastUpdateUtc : 1/29/2018 5:13:40 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTFILEOPENSKIPLOADCONTENTMASTERSEDITING
+LastUpdateUtc : 1/29/2018 5:13:40 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTMRUUPDATEREQUESTISENABLED_GB1
+LastUpdateUtc : 6/4/2018 11:53:39 PM
+LastUpdateBy  : joshand@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTMRUUPDATEREQUESTISENABLED_GB2
+LastUpdateUtc : 6/4/2018 11:53:39 PM
+LastUpdateBy  : joshand@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTOPENDOCUMENTUIISENABLED_GB1
+LastUpdateUtc : 6/4/2018 11:53:38 PM
+LastUpdateBy  : joshand@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTOPENDOCUMENTUIISENABLED_GB2
+LastUpdateUtc : 6/4/2018 11:53:39 PM
+LastUpdateBy  : joshand@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTPROOFINGWITHEDITORSERVICEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:42 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTREMOVECHANGESINFOFORDOWNLOADASACOPYISENABLED
+LastUpdateUtc : 1/29/2018 5:13:43 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTREMOVECHANGESINFOFORSAVEACOPYISENABLED
+LastUpdateUtc : 1/29/2018 5:13:43 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTSELFREQUESTSHUTDOWNWATCHERPERIODSECONDS
+LastUpdateUtc : 1/29/2018 5:13:43 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 0
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTSETSLIDESIZEENABLED
+LastUpdateUtc : 1/29/2018 5:13:44 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : POWERPOINTVIEWERCLOSEAPPBEFORESWITCHTOEDITMODEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:44 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTBOX4SPACINGANDKERNINGISENABLED
+LastUpdateUtc : 1/29/2018 5:13:44 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTBOX4TEXTROTATIONISENABLED
+LastUpdateUtc : 1/29/2018 5:13:45 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTCOPYPARAGRAPHFORMATTINGTOCLIPBOARDISENABLED
+LastUpdateUtc : 1/29/2018 5:13:45 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTCROSSDCPASTEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:45 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTDCSALLOWDUMPFOLDERSIZE
+LastUpdateUtc : 1/29/2018 5:13:46 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : NL1S;US2S
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTDUMPFOLDERSIZEISENABLED
+LastUpdateUtc : 1/29/2018 5:13:46 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGACTIVITIESSENDINGENABLED
+LastUpdateUtc : 1/29/2018 5:13:46 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGCOMMENTACTIVITIESENABLEDSENDING
+LastUpdateUtc : 1/29/2018 5:13:47 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGDISABLECOMPOSEVIEWELEMENTS
+LastUpdateUtc : 1/29/2018 5:13:47 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGDISABLECOMPUTESLIDEHASH
+LastUpdateUtc : 1/29/2018 5:13:48 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGENABLEASSIGNNULLHTMLVALUETOVIEWELEMENT
+LastUpdateUtc : 1/29/2018 5:13:49 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGENABLEFISSYNTHETICINEDITAPPREQUEST
+LastUpdateUtc : 1/29/2018 5:13:49 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGENABLEINSERTPICTUREFROMODB
+LastUpdateUtc : 1/29/2018 5:13:50 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGENABLEINSERTPICTUREFROMODBFORPODS
+LastUpdateUtc : 1/29/2018 5:13:50 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGENABLEMODERNMERGEDATACENTERS
+LastUpdateUtc : 1/29/2018 5:13:50 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : All
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGENABLEREVISIONTRACKINGEDITING
+LastUpdateUtc : 1/29/2018 5:13:51 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGFASTOPENEARLYENABLED
+LastUpdateUtc : 1/29/2018 5:13:51 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGIMAGESLOSSYCOMPRESSIONFOREDITINGENABLED
+LastUpdateUtc : 1/29/2018 5:13:52 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGMENTIONACTIVITIESENABLEDSENDING
+LastUpdateUtc : 1/29/2018 5:13:52 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGPOPSISYCPERFLOGENABLED
+LastUpdateUtc : 1/29/2018 5:13:54 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGRTTENABLETABLELOCK
+LastUpdateUtc : 1/29/2018 5:13:54 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGSERVERREPLICATIONCACHEPARALLELWRITEENABLED
+LastUpdateUtc : 1/29/2018 5:13:55 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGSERVERREPLICATIONCACHEPARALLELWRITEENABLEDDATACENTERS
+LastUpdateUtc : 1/29/2018 5:13:55 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : PP1;PP2;NL1S;US2S;IE1;NL1;SG2;HK1;US1;US2
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGUPDATEPARAFORMATTINGONEOPDELETEDISENABLED
+LastUpdateUtc : 1/29/2018 5:13:56 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGUSEDELAYQUEUEASYNCRESULT
+LastUpdateUtc : 1/29/2018 5:13:56 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGUSEDELAYQUEUEDELAYTASK
+LastUpdateUtc : 1/29/2018 5:13:56 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITINGUSENEWLOCALBRANCHSTORE
+LastUpdateUtc : 1/29/2018 5:13:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORAPPSFOROFFICESINGLESIGNONISENABLED
+LastUpdateUtc : 1/29/2018 5:13:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORDEDICATEDEARLYIMAGEREQUESTENABLED
+LastUpdateUtc : 1/29/2018 5:13:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORDIFFERENTLINEHEIGHTENABLED
+LastUpdateUtc : 1/29/2018 5:13:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORDISPOSETEMPDIRECTIORYENABLED
+LastUpdateUtc : 1/29/2018 5:13:58 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORHERMESDEFAULTLAUNCHENABLED
+LastUpdateUtc : 1/29/2018 5:13:58 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORPAGEVIEWENSURESELECTIONFIXISENABLED
+LastUpdateUtc : 1/29/2018 5:13:58 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORSAVETOANOTHERFOLDERUIISENABLED
+LastUpdateUtc : 1/29/2018 5:13:59 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORSAVETOANOTHERFOLDERUIISENABLEDFORPODS
+LastUpdateUtc : 1/29/2018 5:13:59 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTEDITORTIMEOUTDIALOGREMOVALISENABLED
+LastUpdateUtc : 1/29/2018 5:14:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTFLEXBOXPOSITIONINGISENABLED
+LastUpdateUtc : 1/29/2018 5:14:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTGATHEREDITSLIMDATAENABLED
+LastUpdateUtc : 1/29/2018 5:14:01 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTGLOBALSTORECOPYISENABLED
+LastUpdateUtc : 1/29/2018 5:14:01 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTIMAGEDESCRIPTIONENABLED
+LastUpdateUtc : 1/29/2018 5:14:02 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTLINESPACINGREDUCTIONFIXENABLED
+LastUpdateUtc : 1/29/2018 5:14:03 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTMULTISELECTSLIDESCHANGELAYOUTISENABLED
+LastUpdateUtc : 1/29/2018 5:14:03 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTMULTISELECTSLIDESCOPYPASTEISENABLED
+LastUpdateUtc : 1/29/2018 5:14:04 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTMULTISELECTSLIDESDELETEDUPHIDEISENABLED
+LastUpdateUtc : 1/29/2018 5:14:05 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTMULTISELECTSLIDESISENABLED
+LastUpdateUtc : 1/29/2018 5:14:05 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTMULTISELECTSLIDESMOVEISENABLED
+LastUpdateUtc : 1/29/2018 5:14:06 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTMULTISELECTSLIDESUNDOREDOISENABLED
+LastUpdateUtc : 1/29/2018 5:14:07 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTNEWBOOTEXPERIENCEENABLED
+LastUpdateUtc : 1/29/2018 5:14:08 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTNEWTHEMESENABLED
+LastUpdateUtc : 1/29/2018 5:14:08 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTONLINEENABLEREVISIONTRACKINGEDITING
+LastUpdateUtc : 1/29/2018 5:14:09 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTONLINEENABLEREVISIONTRACKINGVIEW
+LastUpdateUtc : 1/29/2018 5:14:09 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTONLINEFILERECOVERYISENABLED
+LastUpdateUtc : 1/29/2018 5:14:10 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTONLINEMEDIAYOUTUBEFLASHURLTOIFRAMEURLENABLED
+LastUpdateUtc : 1/29/2018 5:14:10 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTONLINEREJECTMERGEDURINGINITIALDOWNLOAD
+LastUpdateUtc : 1/29/2018 5:14:11 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPARAGRAPHSETTINGENABLED
+LastUpdateUtc : 1/29/2018 5:14:12 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPASTELISTMARKERASDESTINATIONISENABLED
+LastUpdateUtc : 1/29/2018 5:14:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPODFAILOVERBYPOPSONNONORDERLYSHUTDOWNENABLED
+LastUpdateUtc : 1/29/2018 5:14:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPODFAILOVERTRIGGERBYBROWSERHINTENABLED
+LastUpdateUtc : 1/29/2018 5:14:14 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPODSFAILOVERENABLED
+LastUpdateUtc : 1/29/2018 5:14:14 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPOPSDELAYQUEUECANCELLATIONTOKENENABLED
+LastUpdateUtc : 1/29/2018 5:14:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPOPSLONGPOLLINGUSEDEDICATEDDELAYQUEUE
+LastUpdateUtc : 1/29/2018 5:14:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPOPSPOSTPONEHOSTLATEST
+LastUpdateUtc : 1/29/2018 5:14:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPOPSRUNLOOPUSEDEDICATEDDELAYQUEUE
+LastUpdateUtc : 1/29/2018 5:14:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTPROPERTYTABLECOLUMNIDARRAYENABLED
+LastUpdateUtc : 1/29/2018 5:14:16 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTSKIPERRORCANNOTPASTEPICTURENOTFOUND
+LastUpdateUtc : 1/29/2018 5:14:16 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTSKIPERRORLOCALCHANGELOSTCOAUTH
+LastUpdateUtc : 1/29/2018 5:14:16 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTSKIPTEMPLATEUPLOADINCREATENEWISENABLED
+LastUpdateUtc : 1/29/2018 5:14:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTSLIDEREORDERINGIMPROVEMENTISENABLED
+LastUpdateUtc : 1/29/2018 5:14:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTTPUSEDELAYQUEUECANCELLATIONTOKEN
+LastUpdateUtc : 1/29/2018 5:14:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTUSEJSONPARSEIMAGERESPONSEENABLED
+LastUpdateUtc : 1/29/2018 5:14:18 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTVIEWERRENDERALLAUTOSHAPESASSVGENABLED
+LastUpdateUtc : 1/29/2018 5:14:18 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PPTVIEWERREQUESTCOMBINATIONENABLED
+LastUpdateUtc : 1/29/2018 5:14:18 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PREDOWNLOADBATCHSIZEBYTES
+LastUpdateUtc : 1/29/2018 5:14:19 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 10000000
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PROOFINGFEEDBACKLOOPISENABLED
+LastUpdateUtc : 1/29/2018 5:14:19 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PROOFINGINSTRUMENTEDANDCONTEXTUALISENABLED
+LastUpdateUtc : 1/29/2018 5:14:19 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PROOFINGWITHEDITORSERVICEISENABLEDFORONENOTE
+LastUpdateUtc : 1/29/2018 5:14:19 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : PROOFINGWITHONESPELLERISENABLED
+LastUpdateUtc : 1/29/2018 5:14:20 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : REDISCACHESERVICEENABLEDDATACENTERS
+LastUpdateUtc : 1/29/2018 5:14:20 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : PP1;PP2;NL1S;US2S;IE1;NL1;SG2;HK1;US1;US2;BR1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : REDUCEALONEUNSAVEDEDITLIMITISENABLED
+LastUpdateUtc : 1/29/2018 5:14:21 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : REPLACEOBJECTDATACENTERENABLINGLIST
+LastUpdateUtc : 1/29/2018 5:14:21 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : {PP1, PP2}
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : REPLACEOBJECTENABLED
+LastUpdateUtc : 1/29/2018 5:14:22 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : REPORTAVAILABILITYLEVELISENABLED
+LastUpdateUtc : 1/29/2018 5:14:22 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : RESOURCELOGGERFILTERDOMAINSISENABLED
+LastUpdateUtc : 1/29/2018 5:14:23 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : RTCFINDSESSIONRETURNSHTTPSURLS
+LastUpdateUtc : 1/29/2018 5:14:23 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SAFELINKSFEATUREISENABLED
+LastUpdateUtc : 1/29/2018 5:14:24 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SAFELINKSSHOULDGETTOKEN
+LastUpdateUtc : 1/29/2018 5:14:24 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SAFELINKSWORDEDITORFEATUREISENABLED
+LastUpdateUtc : 1/29/2018 5:14:24 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SCANNEDPDFSSELECTIONMETADATAEXTRACTIONISENABLED
+LastUpdateUtc : 1/29/2018 5:14:24 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SENDSHELLAPPIDISENABLED
+LastUpdateUtc : 1/29/2018 5:14:25 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SERVERREQUESTCONSUMEVALUEOFUNKNOWNKEYISENABLED
+LastUpdateUtc : 1/29/2018 5:14:26 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SESSIONSTARTDATAADDSESSIONORIGINISENABLED
+LastUpdateUtc : 1/29/2018 5:14:26 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SHOULDEXCELUSECPUBASEDLOADFEEDBACK
+LastUpdateUtc : 1/29/2018 5:14:27 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SHOULDEXCLUDEMACHINEFUNCTIONFORWEBAPPSPORTAL
+LastUpdateUtc : 1/29/2018 5:14:27 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SHOULDONENOTEUSECPUBASEDLOADFEEDBACK
+LastUpdateUtc : 1/29/2018 5:14:27 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SHOULDPOWERPOINTUSECPUBASEDLOADFEEDBACK
+LastUpdateUtc : 1/29/2018 5:14:35 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SHOULDUSEBROADCASTFORWEBAPPSPORTAL
+LastUpdateUtc : 1/29/2018 5:14:36 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SHOULDUSEONENOTEFORWEBAPPSPORTAL
+LastUpdateUtc : 1/29/2018 5:14:36 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SHOULDVISIOUSECPUBASEDLOADFEEDBACK
+LastUpdateUtc : 1/29/2018 5:14:36 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SKIPCACHEZEROBYTECHECKEDBASEDOC
+LastUpdateUtc : 1/29/2018 5:14:37 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SKIPREMOVEALLVIEWBLOCKSBEFORECACHEISSYNCHRONIZED
+LastUpdateUtc : 1/29/2018 5:14:38 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SMARTSELECTIONFORCOBALTSERIALIZATIONPROTOCOLVERSIONISENABLED
+LastUpdateUtc : 11/13/2018 7:04:48 PM
+LastUpdateBy  : joeschu@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SOMESETTINGBRTEST
+LastUpdateUtc : 1/29/2018 5:14:39 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : Hello world!
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SPINNERSPLASHSCREENENABLED
+LastUpdateUtc : 1/29/2018 5:14:39 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : STATICCONTENTPREFETCHUSINGHTTP2ISENABLED
+LastUpdateUtc : 1/29/2018 5:14:47 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : SWAYPUBLISHENABLED
+LastUpdateUtc : 1/29/2018 5:14:47 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : TELEMETRYFORPPTLISTGALLERYENABLED
+LastUpdateUtc : 1/29/2018 5:14:48 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : TELEMETRYFORPPTPARAGRAPHSETTINGENABLED
+LastUpdateUtc : 1/29/2018 5:14:48 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : TEXTPASTEFORMATTINGIMPROVEMENTISENABLED
+LastUpdateUtc : 1/29/2018 5:14:48 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ULSEVENTSOURCECONFIGURATIONENABLED_POWERPOINTLB1
+LastUpdateUtc : 1/29/2018 5:14:48 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : ULSEVENTSOURCECONFIGURATIONENABLED_POWERPOINTONLINEDOCUMENTSERVICELB1
+LastUpdateUtc : 1/29/2018 5:14:49 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : UPLOADULSLOGS
+LastUpdateUtc : 7/19/2018 1:35:07 AM
+LastUpdateBy  : joshand@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : USEDICTIONARIESINAUTOPILOTSERVICEINSTANCEFINDERADAPTER
+LastUpdateUtc : 1/29/2018 5:14:50 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : USEEXPERIMENTALSERVICEPOINTSETTINGS
+LastUpdateUtc : 1/29/2018 5:14:50 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : USEFULLSCREENHRD
+LastUpdateUtc : 1/29/2018 5:14:51 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : USERINFOEVENTSOURCEENABLED
+LastUpdateUtc : 1/29/2018 5:14:51 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : USESTREAMBASEDWIREDESERIALIZER
+LastUpdateUtc : 1/29/2018 5:14:51 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : USESTREAMBASEDWIRESERIALIZER
+LastUpdateUtc : 1/29/2018 5:14:51 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : USEVISIOTEMPLATESERVICE
+LastUpdateUtc : 1/29/2018 5:14:52 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITACCESSIBILITYCHECKENABLED
+LastUpdateUtc : 1/29/2018 5:14:52 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITBLOCKLAYERSBASEDONSETTINGSENABLED
+LastUpdateUtc : 1/29/2018 5:14:53 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITBLOCKSOLUTIONSENABLED
+LastUpdateUtc : 1/29/2018 5:14:53 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITCHANGECONNECTORTYPEENABLED
+LastUpdateUtc : 1/29/2018 5:14:53 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITCHECKFEATURESBEFORESERIALIZEENABLED
+LastUpdateUtc : 1/29/2018 5:14:54 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITEARLYEDITSESSIONTRIGGERENABLED
+LastUpdateUtc : 1/29/2018 5:14:54 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITFASTVIEWENABLED
+LastUpdateUtc : 1/29/2018 5:14:54 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITFONTFAMILYSUPPORTED
+LastUpdateUtc : 1/29/2018 5:14:54 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITIMAGESUPPORTENABLED
+LastUpdateUtc : 1/29/2018 5:14:55 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITINSERTPICTUREENABLED
+LastUpdateUtc : 1/29/2018 5:14:55 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITMULTIPAGESUPPORTENABLED
+LastUpdateUtc : 1/29/2018 5:14:56 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITNOCOMPATCHECKENABLED
+LastUpdateUtc : 1/29/2018 5:14:56 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITPAGECOMMANDSENABLED
+LastUpdateUtc : 1/29/2018 5:14:56 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITQUICKTEXTFORMATTINGENABLED
+LastUpdateUtc : 1/29/2018 5:14:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSERVERASYNCAUTOSAVEENABLED
+LastUpdateUtc : 1/29/2018 5:14:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSERVERAUTOSIZEENABLED
+LastUpdateUtc : 1/29/2018 5:14:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSERVERBESTENCILCACHEENABLED
+LastUpdateUtc : 1/29/2018 5:14:57 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSERVERPNGBOOTENABLED
+LastUpdateUtc : 1/29/2018 5:14:58 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSERVERSEARCHSERVICECONTENTREPOSITORYENABLED
+LastUpdateUtc : 1/29/2018 5:14:58 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSERVERSHAPEPANELINITREQUESTRESTRUCTURED
+LastUpdateUtc : 1/29/2018 5:14:59 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSERVERSTENCILMETADATACACHEENABLED
+LastUpdateUtc : 1/29/2018 5:14:59 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSERVERSTENCILMETADATACACHEVERSION
+LastUpdateUtc : 1/29/2018 5:14:59 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 5
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSHAREBUTTONENABLED
+LastUpdateUtc : 1/29/2018 5:15:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITSUPPORTEDSCREENSIZE
+LastUpdateUtc : 1/29/2018 5:15:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 9
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITTEXTALIGNMENTENABLED
+LastUpdateUtc : 1/29/2018 5:15:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITTEXTTHEMINGSUPPORT
+LastUpdateUtc : 1/29/2018 5:15:00 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITTOGGLELINEJUMPENABLED
+LastUpdateUtc : 1/29/2018 5:15:01 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITUNDOREDOENABLED
+LastUpdateUtc : 1/29/2018 5:15:01 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITVERTICALALIGNMENTSUPPORTED
+LastUpdateUtc : 1/29/2018 5:15:01 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOEDITZORDERCHANGESENABLED
+LastUpdateUtc : 1/29/2018 5:15:02 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOLANDINGPAGEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:02 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOLANDINGPAGEMRUENABLED
+LastUpdateUtc : 1/29/2018 5:15:02 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOLANDINGPAGETEMPLATEENABLED
+LastUpdateUtc : 1/29/2018 5:15:03 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOMRUUPDATEREQUESTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:03 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIONEWDOCUMENTTEMPLATEUIISENABLED
+LastUpdateUtc : 1/29/2018 5:15:03 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIONEWDOCUMENTUIISENABLED
+LastUpdateUtc : 1/29/2018 5:15:04 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOO365SHELLSERVICEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:04 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOONLINEISGAREADY
+LastUpdateUtc : 1/29/2018 5:15:05 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOOPENDOCUMENTUIISENABLED
+LastUpdateUtc : 1/29/2018 5:15:05 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOPBIVISUALSMAXCOUNT
+LastUpdateUtc : 7/27/2018 2:05:17 AM
+LastUpdateBy  : larrwi@microsoft.com
+Value         : 0
+Enabled       : True
+Tags          : {Comments, IcmNumber}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIORENAMEDIALOGISENABLED
+LastUpdateUtc : 1/29/2018 5:15:05 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIORENAMEFILEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:06 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOSAVEASTOHOSTBRSENABLED
+LastUpdateUtc : 1/29/2018 5:15:06 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWAFFLEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:07 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBADDSHAPESETSENABLED
+LastUpdateUtc : 1/29/2018 5:15:07 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBCHECKFEATURESENABLED
+LastUpdateUtc : 1/29/2018 5:15:07 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBCLIENTCOLLAPSEENABLED
+LastUpdateUtc : 1/29/2018 5:15:08 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBCLIENTLOCKPROPERTIESENABLED
+LastUpdateUtc : 1/29/2018 5:15:09 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBCLIENTREMOVESTENCIL
+LastUpdateUtc : 1/29/2018 5:15:09 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITAPPENDORIGINQUERYPARAM
+LastUpdateUtc : 1/29/2018 5:15:10 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITAUTOCONNECTENABLED
+LastUpdateUtc : 1/29/2018 5:15:11 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITCCPENABLED
+LastUpdateUtc : 1/29/2018 5:15:11 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITCONNECTORSENABLED
+LastUpdateUtc : 1/29/2018 5:15:12 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITDOWNLOADPDFENABLED
+LastUpdateUtc : 1/29/2018 5:15:12 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITDUPLICATEENABLED
+LastUpdateUtc : 1/29/2018 5:15:12 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITGROUPFEATENABLED
+LastUpdateUtc : 1/29/2018 5:15:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITISENABLED
+LastUpdateUtc : 1/29/2018 5:15:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITMEASUREFPSPERCENTAGE
+LastUpdateUtc : 1/29/2018 5:15:13 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITQUICKSHAPESENABLED
+LastUpdateUtc : 1/29/2018 5:15:14 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBEDITSHAPEFORMATTINGEABLED
+LastUpdateUtc : 1/29/2018 5:15:14 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBGUIDESENABLED
+LastUpdateUtc : 1/29/2018 5:15:14 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBKEEPALIVEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBMEASUREFPSENABLED
+LastUpdateUtc : 1/29/2018 5:15:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBREDUCESVGDENSITYENABLED
+LastUpdateUtc : 1/29/2018 5:15:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBRENDERINGSERVICEENABLED
+LastUpdateUtc : 1/29/2018 5:15:15 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBREVIEWTABENABLED
+LastUpdateUtc : 1/29/2018 5:15:16 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBRICHAPIFALLBACKDOMAIN
+LastUpdateUtc : 1/29/2018 5:15:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBSAVEONLINEONFILELOCK
+LastUpdateUtc : 1/29/2018 5:15:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBSCALERIBBONUSINGTOPBARMANAGER
+LastUpdateUtc : 1/29/2018 5:15:17 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBSHAPESEARCHENABLED
+LastUpdateUtc : 5/11/2018 6:44:50 AM
+LastUpdateBy  : joshand@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBSKIPTEMPLATEUPLOADINCREATENEWISENABLED
+LastUpdateUtc : 1/29/2018 5:15:18 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBSKULOGGINGENABLED
+LastUpdateUtc : 1/29/2018 5:15:18 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBSYNCSAVEANDCLOSEENABLED
+LastUpdateUtc : 1/29/2018 5:15:19 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBTEMPLATESEARCHENABLED
+LastUpdateUtc : 1/29/2018 5:15:19 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBTHEMINGENABLED
+LastUpdateUtc : 1/29/2018 5:15:19 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBUNSUPPORTEDDEVICEHARDBLOCKISENABLED
+LastUpdateUtc : 1/29/2018 5:15:20 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBUSEBOOTSTRAPAPPSETTINGS
+LastUpdateUtc : 2/19/2019 11:03:59 PM
+LastUpdateBy  : joshand@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VISIOWEBVIRTUALDOMENABLED
+LastUpdateUtc : 1/29/2018 5:15:20 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLSETTENANTPROVSTARTINDEX
+LastUpdateUtc : 1/29/2018 5:15:21 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLSETUSERPROVSTARTINDEX
+LastUpdateUtc : 1/29/2018 5:15:21 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLTENANTBATCHSIZE
+LastUpdateUtc : 1/29/2018 5:15:22 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLTENANTPROVISIONENABLED
+LastUpdateUtc : 1/29/2018 5:15:23 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLTENANTPROVISIONISENABLED
+LastUpdateUtc : 1/29/2018 5:15:23 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLTENANTPROVSTARTINDEX
+LastUpdateUtc : 1/29/2018 5:15:23 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 0
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLTENANTPROVTENANTBATCHSLEEPTIME
+LastUpdateUtc : 1/29/2018 5:15:24 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLTERMINATE
+LastUpdateUtc : 1/29/2018 5:15:25 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLTREATALLEXCEPTIONSASTRANSIENT
+LastUpdateUtc : 1/29/2018 5:15:25 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLUSERBATCHSIZE
+LastUpdateUtc : 1/29/2018 5:15:26 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLUSERPROVBATCHSLEEPTIME
+LastUpdateUtc : 1/29/2018 5:15:26 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 0
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLUSERPROVISIONISENABLED
+LastUpdateUtc : 1/29/2018 5:15:26 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : VOLBACKFILLUSERPROVTENANTBATCHSLEEPTIME
+LastUpdateUtc : 1/29/2018 5:15:27 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : 1
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACBOOTBYPASSMICROSOFTAJAXISENABLED
+LastUpdateUtc : 1/29/2018 5:15:27 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACBOOTDEFERONBYPASSMICROSOFTAJAXISENABLED
+LastUpdateUtc : 1/29/2018 5:15:28 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACDARTBOOTFINISHEDSKIPEVENTSWITHOUTSESSIONID
+LastUpdateUtc : 1/29/2018 5:15:28 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACDARTJSONPARSINGEXCEPTIONHANDLINGENABLEDBOOTFINISHED
+LastUpdateUtc : 1/29/2018 5:15:28 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACDARTJSONPARSINGEXCEPTIONHANDLINGENABLEDBOOTSTART
+LastUpdateUtc : 1/29/2018 5:15:29 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACDATACENTERREDIRECTIONBLOCKLIST
+LastUpdateUtc : 1/29/2018 5:15:29 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : {BN1, DM2}
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACENABLEDLANGUAGESINPRODUCTION
+LastUpdateUtc : 1/29/2018 5:15:29 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : {af-za, am-et, ar-sa, as-in...}
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACMONITORINGAGENTWRAPPERISENABLED
+LastUpdateUtc : 1/29/2018 5:15:30 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACMONITORINGAGENTWRAPPERKILLALLANDRESTART
+LastUpdateUtc : 1/29/2018 5:15:30 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WACPASTEBRASNEWPARAGRAPHISENABLED
+LastUpdateUtc : 1/29/2018 5:15:31 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WEBAPPSPORTALDOCSDOTCOMTILEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:31 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : False
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WEBAPPSPORTALFLOWTILEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:31 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WEBAPPSPORTALWARNONLEGACYCOOKIEBANNERCHECK
+LastUpdateUtc : 1/29/2018 5:15:32 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WEBWORDEDITORACTIVITYMANAGEMENTDEBUGLOGGINGENABLED
+LastUpdateUtc : 1/29/2018 5:15:32 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDACCURATEWORDCOUNTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:33 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDASYNCFRONTENDAUTOSAVEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:33 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDAVAILABILITYMANAGERREPORTINGISENABLED
+LastUpdateUtc : 1/29/2018 5:15:33 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDBASEDOCUMENTSERIALIZATIONTOMETADATASTOREENABLED
+LastUpdateUtc : 1/29/2018 5:15:34 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDDOCUMENTSESSIONEXECUTERELEASELOCKCALLBACKOUTSIDESESSIONLOCK
+LastUpdateUtc : 1/29/2018 5:15:34 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORACTIVITYFEEDGENERATIONISENABLED
+LastUpdateUtc : 1/29/2018 5:15:34 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORAPPSFOROFFICESINGLESIGNONISENABLED
+LastUpdateUtc : 1/29/2018 5:15:35 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORCONTENTCONTROLINLINEBLOCKCONVERSIONISENABLED
+LastUpdateUtc : 1/29/2018 5:15:35 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORCOPYPARAGRAPHFORMATTINGTOCLIPBOARDISENABLED
+LastUpdateUtc : 1/29/2018 5:15:35 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORDISABLETRANSFORMWAITFORLOCKISENABLED
+LastUpdateUtc : 1/29/2018 5:15:36 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORDISPLAYPEOPLESWELLLABELISENABLED
+LastUpdateUtc : 1/29/2018 5:15:36 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITOREXTENSIONCREATEDOCAPIISENABLED
+LastUpdateUtc : 1/29/2018 5:15:36 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORFONTSERVICEFORSYMBOLFONTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:37 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORFONTSLOTSIMPROVEMENTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:37 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORHARDAFFINITYONBOOTREQUESTSPINGBEFOREPROXYING
+LastUpdateUtc : 1/29/2018 5:15:37 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORHIDETOCPARAGRAPHSINSSR
+LastUpdateUtc : 1/29/2018 5:15:37 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORHOSTCACHEENTRYSIGNUSINGPREVIEWBUNDLECERT
+LastUpdateUtc : 1/29/2018 5:15:38 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORIMAGECROPISENABLED
+LastUpdateUtc : 1/29/2018 5:15:38 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORIMAGEROTATEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:39 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORINCREASEGZIPCOMPRESSIONLEVELFORIMAGESISENABLED
+LastUpdateUtc : 1/29/2018 5:15:39 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORINSTANTSKIPPAGEHTMLINGETCELLSRESPONSEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:39 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORINSTANTWACBOOTBYPASSMICROSOFTAJAXISENABLED
+LastUpdateUtc : 1/29/2018 5:15:40 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORLAZYCREATEDSSPROXY
+LastUpdateUtc : 1/29/2018 5:15:40 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORLEARNINGTOOLSNEWDATAFLOWISENABLED
+LastUpdateUtc : 1/29/2018 5:15:40 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORLEARNINGTOOLSREACTUIISENABLED
+LastUpdateUtc : 1/29/2018 5:15:41 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORMOVEIPTOUSERLOCATIONISENABLED
+LastUpdateUtc : 1/29/2018 5:15:41 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORNUMBERLISTVIEWELEMENTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:41 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORONEOUTLINEELEMENTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:42 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITOROUTLINEGROUPSIZEFLIGHTENABLED
+LastUpdateUtc : 1/29/2018 5:15:42 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORPAGEADORNMENTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:42 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORPASTEPARAGRAPHIMPROVEMENTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:43 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORPASTEPICTUREFAILEDIMPROVEMENTISENABLED
+LastUpdateUtc : 1/29/2018 5:15:43 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORSAVETOANOTHERFOLDERUIISENABLED
+LastUpdateUtc : 1/29/2018 5:15:44 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORSTABLESTOREDINDSSISENABLED
+LastUpdateUtc : 1/29/2018 5:15:44 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORTABLEOFCONTENTINTERACTIVITYISENABLED
+LastUpdateUtc : 1/29/2018 5:15:44 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORTRANSISTIONALHEADERUIISENABLED
+LastUpdateUtc : 1/29/2018 5:15:48 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORWEBRENDERSUPPORTEDEXTENSIONS
+LastUpdateUtc : 1/29/2018 5:15:48 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : {.docx, .odt, .docm}
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORWOPIWYWAWATERLINEMANAGERISENABLED
+LastUpdateUtc : 7/31/2018 10:17:28 PM
+LastUpdateBy  : larrwi@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDEDITORWRITINGSTYLEISENABLED
+LastUpdateUtc : 1/29/2018 5:15:49 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDOCSISENABLED
+LastUpdateUtc : 1/29/2018 5:15:49 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}
+
+
+Environment   : wac
+Service       : Trailblazer
+Region        : cus
+BuildVersion  : *.*.*.*
+SettingName   : WORDVIEWERCHARACTERSELECTIONENABLED
+LastUpdateUtc : 1/29/2018 5:15:50 PM
+LastUpdateBy  : andswe@microsoft.com
+Value         : True
+Enabled       : True
+Tags          : {Comments}

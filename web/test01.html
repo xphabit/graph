@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Test01</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="css/box.css" type="text/css" />
+	<script src="js/dll1.js"></script>
+	<script src="js/box1.js"></script>
+	<script src="js/lang.js"></script>
+</head>
+<body>
+<svg style="display: none;">
+	<symbol id="link" viewBox="0 0 48 48">
+		<path fill="currentColor" d="m38,12.83l-2.83,-2.83l-11.17,11.17l-11.17,-11.17l-2.83,2.83l11.17,11.17l-11.17,11.17l2.83,2.83l11.17,-11.17l11.17,11.17l2.83,-2.83l-11.17,-11.17l11.17,-11.17z"/>
+	</symbol>
+</svg>
+<style>
+._x_button{width:27px;height:32px;}
+</style>
+	<div id="test001" style="width:100px;height:100px;background:yellow;"></div><br><br>
+	<div id="test002" style="width:100px;height:100px;background:red;"></div><br><br>
+	<script>
+		
+		window.onload = function() {
+			box.$1();
+			var b = new ui.Button(null, {b:"_x_button", g:"XXXX", h:"YYYYYYYYYYYYYYYYYYY", c:function(s,i) {
+				sys.Pod.x("link").$02();
+			}});
+			document.getElementById("test001").appendChild(b.v);
+		}
+	</script>
+</body>
+</html>

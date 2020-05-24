@@ -1,0 +1,879 @@
+/*http://localhost:8080/graph1/index.php?id=61e69182-6fd7-b60e-59ef-becac0f50154*/
+._x_hidden{
+	display:none;
+}
+
+svg{
+	padding:0;
+	border:0;
+	margin:0;
+}
+
+/* General scroll bar */
+textarea::-webkit-scrollbar,div::-webkit-scrollbar{
+	width:6px;
+	background-color:#f5f5f5;
+	height:6px;
+}
+
+textarea::-webkit-scrollbar-thumb,div::-webkit-scrollbar-thumb {
+	background-color: darkgrey;
+	border-radius:6px 6px;
+}
+
+._xpopup {
+	background:#fff;
+	position:absolute;
+	box-shadow:2px 3px 4px #999;
+	overflow:hidden;
+	z-index:10007;
+}
+
+._xmask{
+	background:#e0e0e0;
+}
+
+._xmodal {
+	left:0;
+	opacity:0.6;
+	z-index:10005;
+	background:#ffeeee;
+	position:fixed;
+	user-select:none;
+	height:100%;
+	width:100%;
+	top:0;
+}
+
+/************************The head bar***************************/
+._x_headbar{
+	top:0px;
+	left:0px;
+	overflow:hidden;
+	user-select:none;
+	position:absolute;
+	background:#555;
+	height:40px;
+	right:0;
+}
+._xh_title {
+	left:46px;
+	color:#fff;
+	outline:none;
+	font-size:1.2em;
+	background:transparent;
+	border:1px solid transparent;
+	position:absolute;
+	border-radius:2px;
+	line-height:22px;
+	padding:1px 3px;
+	height:22px;
+	width:260px;
+	top:7px;
+}
+._xh_title:hover,._xh_title:focus{
+	border:1px solid #f0f0f0;
+}
+button._xh_logo {
+	color:white;
+	background:#ffbb00;
+	cursor:pointer;
+	outline:none;
+	height:40px;
+	width:40px;
+	border:0;
+}
+button._xh_logo:hover{
+	background:#ffbb00;
+}
+button._xh_pencil {
+	top:8px;
+	left:320px;
+	color:white;
+	position:absolute;
+	background:transparent;
+	cursor:pointer;
+	outline:none;
+	height:24px;
+	width:24px;
+	padding:0;
+	border:0;
+}
+button._xh_pencil:hover{
+	color:#ffbb00;
+}
+button._xh_pencil svg{
+	height:24px;
+	width:24px;
+}
+
+/****Menu bar*********************************************/
+._x_menubar{
+	left:0;
+	top:40px;
+	background:#fff;
+	border-bottom:1px solid #e0e0e0;
+	position:absolute;
+	user-select:none;
+	height:31px;
+	right:0;
+}
+dl._xm_list{
+	padding:0;
+	margin:4px;
+	z-index:10006;
+	user-select:none;
+	position:absolute;
+	height:24px;
+	left:0;
+	top:0;
+}
+dl._xm_list dd._xl_item {
+	padding:0 7px;
+	cursor:pointer;
+	text-align:center;
+	line-height:25px;
+	height:24px;
+	float:left;
+	margin:0;
+}
+dl._xm_list dd._xl_item.on{
+	background:#eee;
+}
+
+/****Tool bar**********************************************/
+._x_toolbar{
+	left:0;
+	top:72px;
+	user-select:none;
+	position:absolute;
+	background:whiteSmoke;
+	border-top:1px solid #fff;
+	height:35px;
+	right:0;
+}
+dl._xt_list{
+	height:26px;
+	margin-top:4px;
+	margin-left:7px;
+	user-select:none;
+	margin-block-start:4px;
+	margin-block-end:0;
+	padding:0;
+}
+dl._xt_list dd._xl_item {
+	float:left;
+	color:#555;
+	line-height:26px;
+	text-align:center;
+	border:1px solid transparent;
+	margin:0 3px 0 0;
+	height:24px;
+	width:24px;
+}
+dl._xt_list dd._xg_drop{
+	width:38px;
+}
+dd._xg_line{
+	width:5px;
+	margin:1px 0 0 2px;
+	border-left:1px solid #e0e0e0;
+	height:22px;
+	float:left;
+}
+dl._xt_list dd._xg_drop span.drop {
+	float:right;
+	display:block;
+	border-color:#333;
+	margin:8px 6px 0 4px;
+	transform:matrix(0.707,0.707,-0.707,0.707,0,0);
+	border-width:0 1px 1px 0;
+	border-style:solid;
+	height:4px;
+	width:4px;
+}
+dl._xt_list dd._xl_item.on{
+	border:1px solid #808080;
+	border-radius:2px;
+	color:black;
+}
+dl._xt_list dd._xl_item.down{
+	border:1px solid black;
+}
+dl._xt_list dd._xl_item svg{
+	width:18px;
+	margin-top:3px;
+	height:18px;
+}
+div._xt_more{
+	padding:0 4px 3px 0;
+	border:1px solid #e0e0e0;
+}
+
+/****Quick bar*********************************************/
+._x_quickbar{
+	width:35px;
+	right:214px;
+	border-left:1px solid #e0e0e0;
+	background:whiteSmoke;
+	position:absolute;
+	user-select:none;
+	bottom:28px;
+	top:109px;
+}
+dl._xq_list {
+	margin:0;
+	background:transparent;
+	padding:0;
+}
+dl._xq_list dd {
+	margin:0;
+	cursor:pointer;
+	border-top:1px solid transparent;
+	border-bottom:1px solid transparent;
+	background:transparent;
+	height:48px;
+	width:36px;
+}
+dl._xq_list dd.checked{
+	border-bottom:1px solid #e0e0e0;
+	border-top:1px solid #e0e0e0;
+	background:#fff;
+}
+dl._xq_list dd.blank{
+	margin-top:30px;
+}
+dl._xq_list dd svg{
+	height:24px;
+	margin-top:12px;
+	margin-left:6px;
+	color:#707070;
+	width:24px;
+}
+dl._xq_list dd.checked svg{
+	color:black;
+}
+dl._xq_list dd.on svg{
+	color:black;
+}
+button._xq_close{
+	border:0;
+	width:31px;
+	outline:none;
+	cursor:pointer;
+	background:transparent;
+	position:absolute;
+	height:31px;
+	bottom:2px;
+	padding:0;
+	left:2px;
+}
+button._xq_close:hover{
+	background:#e0e0e0;
+}
+button._xq_close svg{
+	height:24px;
+	color:#707070;
+	width:24px;
+}
+
+/***Menu*****************************************************/
+._x_menu {
+	min-width:180px;
+	user-select:none;
+	border:1px solid #e0e0e0;
+	border-radius:3px;
+	padding:3px;
+	margin:0;
+}
+._x_menu dd._xl_item {
+	width:100%;
+	overflow:hidden;
+	line-height:27px;
+	position:relative;
+	background:transparent;
+	user-select:none;
+	cursor:pointer;
+	height:27px;
+	margin:0;
+}
+._x_menu dd._xl_item span._xm_text{
+	margin-left:27px;
+}
+._x_menu dd._xl_item svg:first-child{
+	width:18px;
+	height:18px;
+	position:absolute;
+	left:3px;
+	top:4px;
+}
+._x_menu dd._xl_item.tip:after{
+	display:block;
+	margin-right:5px;
+	content:attr(data-tip);
+	float:right;
+}
+._x_menu dd._xl_item.drop:after{
+	content:"";
+	float:right;
+	display:block;
+	border-color:#333;
+	margin:11px 10px 0 0;
+	transform:matrix(0.707,0.707,-0.707,0.707,0,0);
+	border-width:2px 2px 0 0;
+	border-style:solid;
+	height:4px;
+	width:4px;
+}
+._x_menu dd._xl_item.disabled{
+	color:#a0a0a0;
+}
+._x_menu dd._xl_item.on{
+	background:#eee;
+}
+._x_menu dd._xm_line {
+	border-bottom:1px solid #ccc;
+	margin:0 0 3px 0;
+	height:3px;
+}
+._x_menu ._x_toggle {
+	margin-right: 5px;
+	float: right;
+}
+._x_menu ._x_toggle.on span:first-child {
+	background:#fff;
+}
+._x_menu ._x_toggle span:first-child{
+	float:left;
+	height:13px;
+	background:black;
+	margin-right:5px;
+	border-radius:15px;
+	border:1px solid black;
+	margin-top:6px;
+	display:block;
+	width:27px;
+}
+._x_menu ._x_toggle.on span:first-child span{
+	background:black;
+	float:right;
+}
+._x_menu ._x_toggle span:first-child span{
+	width:7px;
+	height:7px;
+	background:#fff;
+	border-radius:50%;
+	float:left;
+	margin:2px;
+}
+
+/************************************************/
+._x_spinner{
+	overflow:hidden;
+	position:relative;
+	width:102px;
+}
+._x_spinner button{
+	padding:0;
+	width:16px;
+	cursor:pointer;
+	text-align:center;
+	background:transparent;
+	position:absolute;
+	outline:none;
+	right:1px;
+	border:0;
+}
+._x_spinner button.inc{
+	bottom:50%;
+	top:1px;
+}
+._x_spinner button.dec{
+	bottom:1px;
+	top:50%;
+}
+._x_spinner button span{
+	width:4px;
+	display:inline-block;
+	border-color:#707070;
+	transform:matrix(0.707,0.707,-0.707,0.707,0,0);
+	border-style:solid;
+	height:4px;
+}
+._x_spinner button.inc span{
+	border-width:2px 0 0 2px;
+	vertical-align:baseline;
+}
+._x_spinner button.dec span{
+	border-width:0 2px 2px 0;
+	vertical-align:top;
+}
+._x_spinner button:hover{
+	background:#e0e0e0;
+}
+._x_spinner button:disabled:hover{
+	background:transparent;
+}
+._x_spinner input.val{
+	height:23px;
+	outline:none;
+	border-radius:3px;
+	border:1px solid #a0a0a0;
+	padding:0 16px 0 2px;
+	width:83px;
+}
+._x_spinner input.val:disabled{
+	color:graytext;
+}
+
+/****Custom size***********************/
+._xp_size{
+	padding:0;
+	margin:0;
+}
+._xp_size .size{
+	margin:3px 5px 10px 17px;
+}
+._xp_size .size0{
+	font-size:1.1em;
+	line-height:27px;
+	color:#808080;
+	height:27px;
+}
+._xp_size .size1{
+	line-height:25px;
+	margin-left:12px;
+	height:30px;
+}
+._xp_size .size10{
+	width:30px;
+	display:block;
+	margin-right:5px;
+	text-align:center;
+	float:left;
+}
+
+._xp_size ._x_spinner{
+	overflow:hidden;
+	position:relative;
+	width:84px;
+}
+._xp_size ._x_spinner input.val{
+	width:64px;
+}
+
+/****Foot bar************************************************/
+._x_footbar{
+	bottom:0;
+	height:27px;
+	z-index:10004;
+	border-top:1px solid #e0e0e0;
+	background:#f5f5f5;
+	position:absolute;
+	right:0;
+	left:0;
+}
+
+/**Color picker*********************************************/
+._xcolor{
+	padding:14px 10px;
+}
+._xcolor table{
+	border-top:1px solid black;
+	border-left:1px solid black;
+	margin-bottom:13px;
+	cursor:pointer;
+}
+._xcolor td{
+	padding:0;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+	height:12px;
+	width:12px;
+}
+._xcolor td.none{
+	background:url('data:image/svg+xml;utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12"><rect x="6" y="0" width="6" height="6" fill="#ccc"/><rect x="0" y="6" width="6" height="6" fill="#ccc"/></svg>')
+}
+._xcolor div._xhex {
+	overflow:hidden;
+}
+._xcolor div._xhex:before {
+	content:"#";
+}
+._xcolor div._xhex input{
+	margin:0;
+	height:22px;
+	border:1px solid #d0d0d0;
+	margin-left:4px;
+	padding:0 2px;
+	width:68px;
+}
+._xcolor div._xhex button{
+	border:0;
+	float:right;
+	outline:none;
+	background:#d0d0d0;
+	cursor:pointer;
+	height:24px;
+	width:36px;
+}
+._xcolor div._xhex button:hover{
+	background:#ffbb00;
+}
+
+/****Quick pane*********************************************/
+._x_quickpane{
+	right:0;
+	width:214px;
+	position:absolute;
+	background:#f5f5f5;
+	bottom:28px;
+	top:109px;
+}
+._xq_page{
+	bottom:0;
+	right:5px;
+	background:#fff;
+	position:absolute;
+	left:0;
+	top:0;
+}
+._xc_page,._xc_style,._xc_format{
+	left:0;
+	right:0px;
+	cursor:default;
+	overflow-y:auto;
+	position:absolute;
+	background:#fff;
+	bottom:0;
+	top:0;
+}
+
+/******************* The section o page setting pane ******************/
+._xc_list{ padding:0; }
+
+._xc_list dd._xl_item{
+	display:block;
+	user-select:none;
+	padding:0 7px;
+	margin:5px 13px;
+	height:32px;
+}
+._xc_list dd._xl_item.head{
+	padding:0 3px;
+	background:#e5e5e5;
+	border-top:1px solid #d5d5d5;
+	margin:5px 10px 15px 10px;
+	cursor:pointer;
+	height:28px;
+}
+._xc_list dd._xl_item.head:hover{
+	background:#e0e0e0;
+}
+._xc_list dd._xl_item.tail{
+	margin-bottom:20px;
+}
+._xc_band ._x_toggle{
+	margin-top:4px;
+	float:right;
+}
+._xc_list dd._xl_item.head ._x_toggle{
+	margin-right:1px;
+	margin-top:5px;
+}
+._xc_band label{
+	line-height:28px;
+}
+._xc_band ._x_markclr{
+	float:right;
+}
+._xc_band ._x_markvct{
+	float:right;
+}
+._xc_band ._x_spinner{
+	width:74px;
+	overflow:hidden;
+	position:relative;
+	float:right;
+}
+._xc_band ._x_spinner input.val{
+	width:54px;
+}
+
+/***Dialog************************************************************/
+._x_dialog{
+	padding:5px;
+	z-index:10006;
+	border:1px solid #aaa;
+	box-shadow:0 0 2px 2px #d5d5d5;
+	background:#fff;
+	position:fixed;
+	left:50%;
+	top:50%;
+}
+._xd_body{
+	margin:15px;
+}
+._xd_tip{
+	position:relative;
+}
+._xd_tip label {
+	margin-left:70px;
+	line-height:22px;
+	display:block;
+}
+._xd_tip span {
+	margin-left:36px;
+	line-height:22px;
+	display:block;
+}
+._xd_band hr{
+	border-color:#fff;
+	margin:5px 20px 10px 20px;
+}
+._xd_foot {
+	left:15px;
+	right:15px;
+	padding-top:10px;
+	border-top:1px solid #f0f0f0;
+	position:absolute;
+	height:26px;
+	bottom:16px;
+}
+._xd_foot button {
+	float:right;
+	margin-left:5px;
+	background:#fff;
+	border-radius:3px;
+	border:1px solid #e0e0e0;
+	padding:5px 15px;
+	outline:none;
+}
+._xd_foot button:hover{
+	background:#e5e5e5;
+}
+._xd_foot button.ok{
+	background:#ffbb00;
+}
+._xd_foot button.ok:hover{
+	background:#eeaa00;
+}
+button._xd_close{
+	border:0;
+	width:20px;
+	height:20px;
+	position:absolute;
+	background:transparent;
+	cursor:pointer;
+	outline:none;
+	padding:0px;
+	right:10px;
+	top:10px;
+}
+button._xd_close:hover{
+	background:#e0e0e0;
+}
+button._xd_close svg {
+	height:20px;
+	width:20px;
+	margin:0;
+}
+._xd_title{
+	overflow:hidden;
+	font-size:1.1em;
+	user-select:none;
+	border-bottom:1px solid #eee;
+	line-height:32px;
+	height:32px;
+}
+._xd_band{
+	margin:10px 0;
+}
+._xd_band:not(:first-child){
+	margin:10px;
+}
+._xd_image{
+	top:50%;
+	width:60px;
+	position:absolute;
+	transform:translate(0,-50%);
+	border-radius:50%;
+	background:#ffbb00;
+	height:60px;
+}
+._xd_image svg{
+	margin:10px;
+	height:40px;
+	width:40px;
+}
+._xd_tip div.icon{
+	top:50%;
+	width:30px;
+	position:absolute;
+	transform:translate(0,-50%);
+	border-radius:50%;
+	background:#ffbb00;
+	height:30px;
+}
+._xd_tip div.icon svg{
+	margin:5px;
+	height:20px;
+	width:20px;
+}
+._xd_mail{
+	width:467px;
+	line-height:22px;
+	height:22px;
+}
+._xd_data{
+	line-height:22px;
+	width:465px;
+}
+._xd_text{
+	width:425px;
+	margin-top:10px;
+	line-height:22px;
+	height:22px;
+}
+
+/***Buttons************************************************************/
+button._x_toggle{
+	padding:0;
+	outline:none;
+	background:transparent;
+	border:0;
+}
+button._x_toggle:before{
+	content:attr(data-tip);
+	line-height:20px;
+}
+button._x_toggle span.out{
+	float:right;
+	height:15px;
+	margin-left:5px;
+	border-radius:15px;
+	background:#a0a0a0;
+	border:1px solid #a0a0a0;
+	display:block;
+	width:34px;
+}
+button._x_toggle.on span.out{
+	background:#fff;
+}
+button._x_toggle span.in{
+	width:11px;
+	height:11px;
+	background:#fff;
+	border-radius:50%;
+	float:left;
+	margin:2px;
+}
+button._x_toggle.on span.in{
+	background:#ffbb00;
+	float:right;
+}
+
+/**********************************************************/
+button._x_markvct{
+	padding:0;
+	width:74px;
+	position:relative;
+	border-radius:3px;
+	border:1px solid #a0a0a0;
+	background:#fff;
+	cursor:pointer;
+	outline:none;
+	height:25px;
+}
+button._x_markvct .icon{
+	width:50px;
+	display:inline-block;
+	vertical-align:middle;
+	height:23px;
+	float:left;
+}
+button._x_markvct .drop{
+	float:right;
+	display:block;
+	margin:6px 6px 0 0;
+	border-color:#707070;
+	vertical-align:middle;
+	transform:matrix(0.707,0.707,-0.707,0.707,0,0);
+	border-width:0 2px 2px 0;
+	border-style:solid;
+	height:4px;
+	width:4px;
+}
+button._x_markvct:disabled .drop{
+	border-color:#a0a0a0;
+}
+button._x_markvct.on .drop{
+	border-color:black;
+}
+dl._xp_vect {
+	min-width:120px;
+}
+dd._xv_line{
+	padding:0;
+	border-radius:3px;
+	border:1px solid transparent;
+	margin:2px 0px;
+	height:24px;
+	width:120px;
+}
+dd._xv_line.on{
+	border:1px solid black;
+}
+
+/**********************************************************/
+button._x_dropclr{
+	padding:0;
+	position:relative;
+	border-radius:3px;
+	border:1px solid #a0a0a0;
+	background:#fff;
+	cursor:pointer;
+	outline:none;
+	height:23px;
+}
+button._x_dropclr:disabled{
+	background:#ebebe4;
+}
+button._x_dropclr.on{
+	border:1px solid #555;
+}
+button._x_dropclr label{
+	float:left;
+	background:black;
+	display:inline-block;
+	vertical-align:middle;
+	border:1px solid #a0a0a0;
+	margin:0 4px;
+	height:13px;
+	width:13px;
+}
+button._x_dropclr.on{
+	border-color:black;
+}
+button._x_dropclr.on label{
+	border-color:black;
+}
+button._x_dropclr span{
+	vertical-align:middle;
+	display:inline-block;
+	margin:0 1px;
+}
+button._x_dropclr .drop{
+	float:right;
+	display:block;
+	margin:4px 6px 0 0;
+	border-color:#707070;
+	transform:matrix(0.707,0.707,-0.707,0.707,0,0);
+	border-width:0 2px 2px 0;
+	border-style:solid;
+	height:4px;
+	width:4px;
+}
+button._x_dropclr.on .drop{
+	border-color:black;
+}

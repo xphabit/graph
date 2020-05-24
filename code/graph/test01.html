@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Test01</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="box.css" type="text/css" />
+	<script src="out/dll1.js"></script>
+	<script src="define/define.js"></script>
+	<script src="ui/control.js"></script>
+	<script src="ui/pane.js"></script>
+	<script src="ui/textbox.js"></script>
+	<script src="ui/button.js"></script>
+	<script src="ui/color.js"></script>
+	<script src="ui/dropcolor.js"></script>
+	<script src="ui/modal.js"></script>
+	<script src="ui/toggle.js"></script>
+</head>
+<body>
+<svg style="display: none;">
+	<symbol id="link" viewBox="0 0 48 48">
+		<path fill="currentColor" d="m38,12.83l-2.83,-2.83l-11.17,11.17l-11.17,-11.17l-2.83,2.83l11.17,11.17l-11.17,11.17l2.83,2.83l11.17,-11.17l11.17,11.17l2.83,-2.83l-11.17,-11.17l11.17,-11.17z"/>
+	</symbol>
+</svg>
+<style>
+._x_button{width:27px;height:32px;}
+</style>
+	<div id="test001" style="width:200px;height:400px;background:yellow;"></div><br><br>
+	<div id="test002" style="width:100px;height:100px;background:red;"></div><br><br>
+	<script>
+		//box.boxRoot_config();
+		window.onload = function() {
+			var modal = new ui.Modal();
+			var b = new ui.Button(null, {
+				uiControlOption_class:"_x_button", 
+				uiControlOption_text:"XXXX", 
+				uiControlOption_tip:"YYYYYYYYYYYYYYYYYYY", 
+				uiControlOption_action:function(s,i) {
+					var dlg = sys.Pod.sysPod_depend("LinkDialog");
+					dlg.boxPrompt_show();
+				}
+			});
+			document.getElementById("test001").appendChild(b.uiControl_element);
+
+			//var c = new ui.Color(null);
+			//document.getElementById("test001").appendChild(c.uiControl_element);
+
+			var c = new ui.DropColor(null, {uiDropColorOption_dropper:function(){
+				return new ui.Color(null,{uiControlOption_modal:modal});}});
+			document.getElementById("test001").appendChild(c.uiControl_element);
+
+			var t = new ui.Toggle(null, {uiToggleOption_checked: true, uiControlOption_action:function(x, y){alert(y)}});
+			document.getElementById("test002").appendChild(t.uiControl_element);
+		}
+	</script>
+</body>
+</html>
